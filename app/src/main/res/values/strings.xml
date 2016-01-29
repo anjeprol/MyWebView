@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWebView</string>
+    <string name="settings">MyJSViewer</string>
+    <string name="titleJS">Run Java Script</string>
+</resources>
